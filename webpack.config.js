@@ -57,5 +57,5 @@ module.exports = (env, argv) => ({
     static: path.join(__dirname, 'public'),
     compress: true,
     port: 6000,
-  },
+  }
 });
