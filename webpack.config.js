@@ -56,6 +56,6 @@ module.exports = (env, argv) => ({
   devServer: {
     static: path.join(__dirname, 'public'),
     compress: true,
-    port: 6000,
+    port: 8000,
   }
 });
