@@ -1,5 +1,8 @@
 "use strict";
 
+//* Essential Files first
+import './assets/loading.js';
+
 //* CSS
   // Base
   import '../css/base/normalize.css';
@@ -8,6 +11,7 @@
   // Layout
   import '../css/layout/body.css';
   import '../css/layout/loadingPage.css';
+  import '../css/layout/mainWrapper.css';
   import '../css/layout/navigationBar.css';
   import '../css/layout/homePage.css';
 
