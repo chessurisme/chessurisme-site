@@ -1,3 +1,19 @@
+[data-theme="light"] {
+  --background-color: var(--white);
+  --color: var(--black);
+  --fill: var(--black);
+  --stroke-color: var(--black);
+}
+
+[data-theme="dark"] {
+  --background-color: var(--black);
+  --color: var(--white);
+  --fill: var(--white);
+  --stroke-color: var(--white);
+}
+
+
+
 [data-lucide], .icon, .button {
   cursor: pointer
 }
