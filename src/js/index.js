@@ -6,6 +6,7 @@
   
   // Layout
   import '../css/layout/body.css';
+  import '../css/layout/navigationBar.css';
   import '../css/layout/homePage.css';
 
 //* JavaScript
