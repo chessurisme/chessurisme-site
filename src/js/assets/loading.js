@@ -7,7 +7,7 @@ function loadUp(){
   setTimeout(() => {
     loadingPage.style.display = 'none';
     mainWrapper.style.display = 'flex';
-  }, 5000);
+  }, 3000);
 }
 
 loadUp();
