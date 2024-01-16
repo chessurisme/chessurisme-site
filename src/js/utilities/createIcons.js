@@ -4,7 +4,7 @@ import { createIcons, Play, CircleUserRound, Menu } from 'lucide';
 
 createIcons({
   attrs: {
-    stroke: '#303030'
+    stroke: 'var(--stroke-color)'
   },
 
   icons: {
