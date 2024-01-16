@@ -2,7 +2,8 @@
 
 //* CSS
   // Base
-  import '../css/base/color.css';
+  import '../css/base/normalize.css';
+  import '../css/base/color.css'
   
   // Layout
   import '../css/layout/body.css';
