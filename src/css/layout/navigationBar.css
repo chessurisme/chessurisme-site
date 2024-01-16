@@ -2,7 +2,7 @@
   position: fixed;
   top: 0;
   
-  width: 100dvw;
+  width: calc(100dvw - 32px);
 
   display: flex;
   justify-content: space-between;
