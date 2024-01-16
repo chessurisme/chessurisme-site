@@ -11,6 +11,9 @@
   import '../css/layout/homePage.css';
 
 //* JavaScript
+  // Assets
+  import './assets/logo.js';
+
   // Utilities
   import './utilities/createIcons.js';
 
