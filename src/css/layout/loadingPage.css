@@ -11,4 +11,12 @@
 
   background-color: var(--background-color);
   color: var(--color);
+
+  div {
+    height: 15vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
 }
