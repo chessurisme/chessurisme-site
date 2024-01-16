@@ -12,8 +12,6 @@
   --stroke-color: var(--white);
 }
 
-
-
 [data-lucide], .icon, .button {
   cursor: pointer
 }
