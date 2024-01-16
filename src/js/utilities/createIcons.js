@@ -1,6 +1,6 @@
 "use strict";
 
-import { createIcons, Play, CircleUserRound, Menu } from 'lucide';
+import { createIcons, Hourglass, Play, CircleUserRound, Menu } from 'lucide';
 
 createIcons({
   attrs: {
@@ -8,6 +8,9 @@ createIcons({
   },
 
   icons: {
+    // Loading Page
+    Hourglass,
+
     // Home Page
     Menu,
     Play,
