@@ -1,11 +1,13 @@
 "use strict";
 
-export function loadUp(){
+function loadUp(){
   const loadingPage = document.getElementById("loadingPage");
   const mainWrapper = document.getElementById("mainWrapper");
 
   setTimeout(() => {
-    loadingPage.style.display = 'flex';
-    mainWrapper.style.display = 'none';
+    loadingPage.style.display = 'none';
+    mainWrapper.style.display = 'flex';
   }, 3000);
 }
+
+loadUp();
