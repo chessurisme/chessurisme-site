@@ -1,0 +1,10 @@
+.navigationBar {
+  position: fixed;
+  top: 0;
+  
+  width: 100dvw;
+
+  display: flex;
+  justify-content: space-between;
+  margin: 0 16px;
+}
